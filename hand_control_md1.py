@@ -2,6 +2,7 @@ import cv2
 import mediapipe as mp
 import pyautogui
 import numpy as np
+
 def drawing(query):
     while query:    
         # Initialize the webcam capture
